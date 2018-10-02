@@ -1,0 +1,6 @@
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/ANPR.dir
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/trainSVM.dir
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/trainOCR.dir
+/mnt/hgfs/share/NumberPlateRecognition/build/CMakeFiles/evalOCR.dir
