@@ -4,9 +4,16 @@ The main implement of PNR is __`image segmentation`__ and __`feature extraction`
 recgonition algorithm **`Support Vector Machine`** and 
 **`Artificial Neural Networks`**.
 
-The two main parts of PNR are
+The two main parts of PNR are: 
 * Plate detction
 * Plate recognition
 
 
-## Plate detction
+## Plate detection
+All the processes involved in plate detection
+* Sobel filter
+* Threshold operation
+* Close morphologic operation
+* Mask of one filled area
+* Possible detected plates marked in red (features images)
+* Detected places after the SVM classifier
