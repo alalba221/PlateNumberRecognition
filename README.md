@@ -18,6 +18,10 @@ All the processes involved in plate detection
 * Possible detected plates marked in blue (features images)
 * Detected places after the SVM classifier
 
+Our SVM classifier trained with 75 license plate images and 35 images without license plates of 144 \* 33  pixels. This dataset is sufficient enough to get decent results, although it is not large.
+
+
+![Image of Detiecon](https://github.com/alalba221/pic/blob/master/PNR/dataset.png)
 The next images show the all the results of the processes
 
 
