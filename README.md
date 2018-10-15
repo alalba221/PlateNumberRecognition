@@ -1,4 +1,20 @@
 # Plate Number Recognition (PNR)
+
+Building the project using CMake from the command-line:
+
+```
+Linux:
+    export OpenCV_DIR="~/OpenCV/build"
+    mkdir build
+    cd build
+    cmake -D OpenCV_DIR=$OpenCV_DIR ..
+    make 
+```
+
+Running the project
+```
+./APNR <picture_file>
+```
 ## 1 Intorduction to PNR
 The main implement of PNR is __`image segmentation`__ and __`feature extraction`__, **`pattern recognition`**, and two main pattern 
 recgonition algorithm **`Support Vector Machine`** and 
